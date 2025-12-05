@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wikmoz&label=Profile%20views&color=0e75b6&style=flat" alt="wikmoz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonal-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="sonal" /> </p>
 
 <p align="left">
 </p>
@@ -16,39 +16,23 @@
 
 # About me
 
-- 👋 Hi! I'm Wika! I'm passionate learner of software testing. 
+- 👋 Hi! I'm Sonal Tiwari! I'm passionate learner of software testing. 
 
-- 🌱 I’m currently participating in: [**DARE IT mentoring**](#courses-training-mentoring)
+- 🌱 I’m currently participating in: [**TECHMARBLES WEB SOLUTIONS**]
 
-- 👨‍💻 All of my projects are available at: **[DARE IT manual testing](https://github.com/WikMoz/challenge_portfolio_Wiktoria) , [DARE IT automated testing](https://github.com/WikMoz/challenge_automated_testing)**
-
-- 📫 How to reach me: wmozalewska@gmail.com , [linkedin](https://www.linkedin.com/in/wiktoria-mozalewska)
+- 📫 How to reach me: sonaltiwari2701@gmail.com , [linkedin](https://www.linkedin.com/in/sonaltiwariofficial)
 
 - 😉 Contact me - I am really interested in gaining some experience to enrich my portfolio 
 
 <p align="center">
 Welcome to my testing portfolio. I'm a passionate beginner in manual testing, excited about taking on new challenges and gaining valuable experience.
-Within my portfolio lies not only a collection of skills but a story of my dedication to analysis, exploration, and refinement. Despite being in the early stages of my testing career, my professional background in the pharmaceutical industry, specifically in the quality control of pharmaceuticals, has given me a strong understanding of the importance of maintaining the highest standards of quality. My professional experience serves as a foundation for my commitment to excellence in testing.
+Within my portfolio lies not only a collection of skills but a story of my dedication to analysis, exploration, and refinement.
 I aspire to be a valuable team member contributing to the success of projects. I firmly believe in the power of learning through practical application. Therefore, I  am really interested in gaining experience and very enthusiastic about contributing to projects providing me an opportunities to enhance my skills.
 </p>
 
 
 # Courses, training, mentoring
-- [DARE IT mentoring](https://www.dareit.io/mentoring/)
-
-
-DareIT Mentoring is a 4-month program where I work with my incredible Mentor [Agnieszka Grytka](linkedin.com/in/agnieszka-grytka) who is a Test Lead, Senior Test Engineer, QA and Project Manager on my manual testing skills. In addition to 1:1 sessions with a mentor, the Program offers: HR consultations, thematic webinars, networking meetings, all in a community of almost 300 people: mentors, HR consultants, Program Partners and other mentees.
-Nearly 500 candidates applied for the 120 spots - I am ready to take full advantage of this opportunity to prepare myself to get my first job in IT.
-- [uTest Academy](https://www.utest.com/)
-- Cherry IT mentoring with Anna Czyrko
-- Collaborative testing - Cherry IT: Devtools [COLT 3/2023](http://cherry-it.pl/colt-3-2023/)
-- [Basic SQL in practice](https://digitalfestival.pl/akademia_skillup/podstawy-jezyka-sql-w-praktyce/) - Digital Festival
-- [Postman - REST API testing](https://www.udemy.com/share/101S863@kU8iR2ibxIkztZjayHyT_kJxMxJKAuKOSOFNWnO48tnsAyOfM2wFwbAQgs3EiqOJcQ==/) - UDEMY 🧾 [Certificate](https://drive.google.com/file/d/1lKAMZto7m98EUc2Y9BnzJOm0tTbND0fL/view?usp=drivesdk)
-- [Devtools](https://szkoleniedlaqa.pl/konsola/) - Adam Gola 🧾 [Certificate](https://drive.google.com/file/d/1ehofc_p19o5D6YcBksqnGqA351XYvoUW/view?usp=drive_link)
-- 7 weeks course - [Dare IT Challenge](https://www.dareit.io/challenges/wstep-do-testow-automatycznych): Intoduction to automated testing  🧾 [Certificate](https://drive.google.com/file/d/1UeZiKSnyBuKkh7DznT5iafFI22hsLxD4/view?usp=drive_link)
-- Collaborative testing - Cherry IT: REST API [COLT 1/2023](http://cherry-it.pl/podsumowanie-colt-1-2023/)
-- 7 weeks course - [Dare IT Challenge](https://www.dareit.io/challenges/qa-manual-testing): Become a manual tester  🧾 [Certificate](https://drive.google.com/file/d/1muazSQFQ-i7vjRm48xIr8-13WDR6Qtok/view?usp=drive_link)
-- SQL basics - SQL in 120 minutes - [kursysql.pl](https://www.kursysql.pl/szkolenie-sql-w-120-minut/)
+- [TECHMARBLES WEB SOLUTIONS]
 
 
 # Tools
@@ -57,7 +41,7 @@ Nearly 500 candidates applied for the 120 spots - I am ready to take full advant
 - Jira - basics (creating test cases)
 - GitHub - basics (creating portfolio)
 - Postman - basics
-- Screenpresso, Mobizen
+- Agile Methodology
 - Slack
 
 # Tech skills
@@ -66,21 +50,22 @@ Nearly 500 candidates applied for the 120 spots - I am ready to take full advant
 - Creating test cases
 - Reporting bugs
 - Creating test reports
+- Plugin Testing (Shopify & WordPress)
 - Basics for beginners of automated testing
 
 # Projects
 
-## Testing exercises at DARE IT manual testing challenge
+## Testing exercises at TECHMARBLES WEB SOLUTIONS manual testing challenge
 
-### ✅ Testing [Futbol Kolektyw](https://scouts-test.futbolkolektyw.pl/pl) web app
+### ✅ Testing [TALES BUDDY](https://talesbuddy.com) website
 - Explorative testing
-- [Test cases for user stories](https://docs.google.com/spreadsheets/d/1lodk83NlXzVX2n_N-y8rW2jbiDuHJxqD/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true)
-- [Test cases based on experience](https://docs.google.com/spreadsheets/d/1YmXbnhtnpeROPaZI6VZ_JnWPs83CFGMd/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true)
-- [Bug report](https://docs.google.com/spreadsheets/d/1yNjSEN-VvtSfSd5MfSlgpfMwzW0bd1FGTANk7rX8lcE/edit?usp=sharing) 
+- [Test cases for user stories]
+- [Test cases based on experience]
+- [Bug report]
 - [Test report](https://docs.google.com/spreadsheets/d/1IvBLQX9O88la2VP2aUuf9GlSBBfTlNkv5cXqbucVlKc/edit?usp=sharing) 
 - [Explorative testing - tour](https://docs.google.com/spreadsheets/d/1TrnbCMN6Ii4YK9mdQORSYsZ59pRR7AjU5uM4_7y8bEg/edit?usp=share_link) 
 
-### ✅ Testing [pick.eat.up](https://play.google.com/store/apps/details?id=com.pickeatup&gl=US&pli=1) mobile app in group
+### ✅ Testing [ERP Integartion Plugin](https://) mobile app in group
 - [Test cases for pick.eat.up app](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true) 
 
 ### ✅ Explorative testing [OLX](https://play.google.com/store/apps/details?id=pl.tablica&gl=US) mobile app
