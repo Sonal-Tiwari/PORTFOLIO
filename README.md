@@ -68,7 +68,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - [Bug report]
   
 
-### ✅ Testing [ERP Integration Plugin](https://) by TecMarbles
+### ✅ Testing [ERP Integration Plugin]([https://](https://apps.shopify.com/erpnext-integration?search_id=39bb6e8c-13ac-4574-b90b-fb5f854960cf&surface_detail=techmarbles&surface_inter_position=1&surface_intra_position=4&surface_type=search)) by TecMarbles
 - [Test report]
   
 
