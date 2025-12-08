@@ -1,5 +1,5 @@
 
-![2025-12-08_20h49_22](https://photos.google.com/u/1/photo/AF1QipNwx19alduEHCQv2xZMl9PIW98L1zUgvEg55uTa)
+![2025-12-08_20h49_22](https://photos.app.goo.gl/1MRDz85ncA8h2Q9V9)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonal-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="sonal" /> </p>
