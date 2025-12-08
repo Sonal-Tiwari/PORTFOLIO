@@ -8,7 +8,7 @@
 </p>
 
 [<kbd> About me </kbd>](#about-me)
-[<kbd> Courses </kbd>](#courses-training-mentoring)
+[<kbd> Courses </kbd>](#courses-training/practicing)
 [<kbd> Tools </kbd>](#tools)
 [<kbd> Tech skills </kbd>](#tech-skills)
 [<kbd> Projects </kbd>](#projects)
