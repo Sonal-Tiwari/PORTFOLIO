@@ -1,6 +1,5 @@
 
-![2025-12-08_20h49_22](https://user-images.githubusercontent.com/122229411/220188318-ab13f5d8-f710-4785-93d0-21e36bc2b6c2.png)
-
+![2025-12-08_20h49_22](https://photos.google.com/u/1/photo/AF1QipNwx19alduEHCQv2xZMl9PIW98L1zUgvEg55uTa)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonal-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="sonal" /> </p>
