@@ -76,7 +76,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - [Test report](https://docs.google.com/spreadsheets/d/154q2wmcIfp1WJUtk8h2fIhIfCiS9E7cQwfPBh40cV3w/edit?usp=sharing)
 
 
-### ✅ Testing [Shopify-NetSuite Integration plugin] by TechMables
+### ✅ Testing [Shopify-NetSuite Integration plugin](https://apps.shopify.com/netsuite-integration?st_source=autocomplete&surface_detail=autocomplete_apps) by TechMables
 - [Exploratory testing]
 - [Test Report]
 
