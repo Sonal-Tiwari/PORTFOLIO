@@ -74,7 +74,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - [Test report](https://docs.google.com/spreadsheets/) 
 
 ### ✅ Explorative testing [TM Woocommerce NetSuite Integration] WordPress Plugin
-- [Test report](https://docs.google.com/spreadsheets/d/1dxr7ET21OXQTeADWFLF1AS2I_gOKfb7pCvlb-kn-UBY/edit?gid=0#gid=0)
+- [Test report](https://docs.google.com/spreadsheets/d/154q2wmcIfp1WJUtk8h2fIhIfCiS9E7cQwfPBh40cV3w/edit?usp=sharing)
 
 ### ✅ Testing [SwipeTo](https://swipeto.pl/) in groups (reporting in Jira) 
 
