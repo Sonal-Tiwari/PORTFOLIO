@@ -31,16 +31,17 @@ I aspire to be a valuable team member contributing to the success of projects. I
 </p>
 
 
-# Courses, training, mentoring
+# Courses, training
 - [TECHMARBLES WEB SOLUTIONS]
 
 
 # Tools
 
 - Devtools - basics for manual testers
+- Google Docs & Sheet (for test report)
 - Jira - basics (creating test cases)
 - GitHub - basics (creating portfolio)
-- Postman - basics
+- Postman - API testing
 - Agile Methodology
 - Slack
 
@@ -51,6 +52,8 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - Reporting bugs
 - Creating test reports
 - Plugin Testing (Shopify & WordPress)
+- ERP software testing
+- WordPress content management
 - Basics for beginners of automated testing
 
 # Projects
