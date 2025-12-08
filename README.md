@@ -30,7 +30,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 </p>
 
 
-# Courses, Training/Practicing
+# Courses,Training/Practicing
 - TECHMARBLES WEB SOLUTIONS
 
 
