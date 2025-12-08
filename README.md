@@ -66,41 +66,28 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - [Test cases for user stories]
 - [Test cases based on experience]
 - [Bug report]
-- [Test report](http) 
-- [Explorative testing - tour](http) 
+  
 
 ### ✅ Testing [ERP Integration Plugin](https://) by TecMarbles
-- [Test report](http) 
+- [Test report]
+  
 
 ### ✅ Explorative testing [TM Woocommerce NetSuite Integration] WordPress Plugin
 - [Test report](https://docs.google.com/spreadsheets/d/154q2wmcIfp1WJUtk8h2fIhIfCiS9E7cQwfPBh40cV3w/edit?usp=sharing)
 
-### ✅ Testing [SwipeTo](https://swipeto.pl/) in groups (reporting in Jira) 
 
-|Id |Title                                                                       | BUG |Screencast|
-|:-:|:--------------------------------------------------------------------------:|:---:|:--------:|
-|1  |The registration window is cropped|[BUG 1](https://drive.google.com/file/d/1Q9tolha8qUv4PmAZIgUOoFpS8Y6oXozX/view?usp=drive_link)|[Screencast](https://user-images.githubusercontent.com/122229411/216847250-a513ca26-e12c-41da-864d-a2dba5616a9e.mp4)|
-|2  |After adding new like ('polub') - the total number of likes doesn’t change  |[BUG 2](https://drive.google.com/file/d/1Ta3lITb0nDXma6lqJDQ7G8sfY_d-m_AE/view?usp=drive_link)|[Screencast](https://user-images.githubusercontent.com/122229411/216847701-300ed0ba-5723-4497-9161-75d6f979d810.mp4)|
-|3  |The quick flash of previous article before opening the new, chosen one |[BUG 3](https://drive.google.com/file/d/1JPNBgPPa8oo7kf0yba0fSEwTzDWssTqZ/view?usp=drive_link)|[Screencast](https://user-images.githubusercontent.com/122229411/216848500-90ff042e-636a-4212-984f-4ae05ceee7c8.mp4)|
-|4  |No possibility to add comment to the article|[BUG 4](https://drive.google.com/file/d/192ih947ekWEzlwgFoVASeFddYTw5UQWH/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1Hk4CA7y46jmeFjd4jy2x-7m2uVLGanS4/view?usp=share_link)|
-|5  |Name of the author overlaps the icons|[BUG 5](https://drive.google.com/file/d/1SoOPcWsM9wfWLq9wVnck2jX-UzT5EStc/view?usp=drive_link)|[Screencast](https://drive.google.com/file/d/1lOVSLKrvoZg3jJ-e3gnJUDC9dj4ZoO_Z/view?usp=share_link)|
-
-## Testing at Cherry IT COLT 1/2023
-
-- [x] REST API basic knowledge,
-- [x] Postman tool's basics,
-- [x] Creating collections based on Trello documentation,
-- [x] Learning GIT (commits, PR).
+### ✅ Testing [Shopify-NetSuite Integration plugin] by TechMables
+- [Exploratory testing]
+- [Test Report]
 
 
-## Testing exercises at DARE IT automated testing challenge
+### ✅ Testing [TechMarbles Website]
 
-- [x] Testing [Futbol Kolektyw](https://scouts-test.futbolkolektyw.pl/en) web app
-- [x] Creating project using Selenium Webdriver + Python and robot framework
-- [x] Creating [automated testing repository](https://github.com/WikMoz/challenge_automated_testing)
-- [x] [Test cases](https://docs.google.com/spreadsheets/d/1SZTZz8OM2_jrhuyFVGiuhYWc3yNVn80e2h4A2Dd-aKg/edit?usp=share_link)
-- [x] [Bug report](https://docs.google.com/spreadsheets/d/1Box018tjWX_dN2I6KCCwPfX5f0vzeeOLH3Y743uoJKg/edit?usp=share_link)
-- [x] [Test report](https://docs.google.com/spreadsheets/d/10aMmj4evYu9VtLWLdEiC9k36R_p-sr50jVYqDm6iWgU/edit?usp=drive_link)
+- [Exploratory Testing]
+- [Functional Testing]
+- [Bug report](https://docs.google.com/spreadsheets/d/133_OFjThmsAIJGqpi0QWvTfjm-aCbiCmEV8s_uztiHs/edit?usp=sharing)
+- [API Testing]
+
 
 ## MY OWN PROJECTS
 ### ✅ Exploratory testing of [Rainbow Tours](https://r.pl) website
