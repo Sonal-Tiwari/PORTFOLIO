@@ -1,5 +1,5 @@
 
-![2023-02-20_20h49_22](https://user-images.githubusercontent.com/122229411/220188318-ab13f5d8-f710-4785-93d0-21e36bc2b6c2.png)
+![2025-12-08_20h49_22](https://user-images.githubusercontent.com/122229411/220188318-ab13f5d8-f710-4785-93d0-21e36bc2b6c2.png)
 
 
 
@@ -31,15 +31,15 @@ I aspire to be a valuable team member contributing to the success of projects. I
 </p>
 
 
-# Courses, training
-- [TECHMARBLES WEB SOLUTIONS]
+# Courses, Training/Practicing
+- TECHMARBLES WEB SOLUTIONS
 
 
 # Tools
 
 - Devtools - basics for manual testers
 - Google Docs & Sheet (for test report)
-- Jira - basics (creating test cases)
+- Jira - basics
 - GitHub - basics (creating portfolio)
 - Postman - API testing
 - Agile Methodology
@@ -47,6 +47,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 
 # Tech skills
 
+- SDLC & STLC
 - SQL - basics for beginners
 - Creating test cases
 - Reporting bugs
@@ -55,6 +56,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - ERP software testing
 - WordPress content management
 - Basics for beginners of automated testing
+
 
 # Projects
 
@@ -65,14 +67,14 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - [Test cases for user stories]
 - [Test cases based on experience]
 - [Bug report]
-- [Test report](https://docs.google.com/spreadsheets/d/1IvBLQX9O88la2VP2aUuf9GlSBBfTlNkv5cXqbucVlKc/edit?usp=sharing) 
-- [Explorative testing - tour](https://docs.google.com/spreadsheets/d/1TrnbCMN6Ii4YK9mdQORSYsZ59pRR7AjU5uM4_7y8bEg/edit?usp=share_link) 
+- [Test report](https://docs.google.com/) 
+- [Explorative testing - tour](https://docs.google.com/spreadsheets/) 
 
-### ✅ Testing [ERP Integartion Plugin](https://) mobile app in group
-- [Test cases for pick.eat.up app](https://docs.google.com/spreadsheets/d/1Z4GQxUTicf-5v0iVSGIMF_72bpZmDYHq/edit?usp=sharing&ouid=117170517202558210113&rtpof=true&sd=true) 
+### ✅ Testing [ERP Integration Plugin](https://) by TecMarbles
+- [Test report](https://docs.google.com/spreadsheets/) 
 
-### ✅ Explorative testing [OLX](https://play.google.com/store/apps/details?id=pl.tablica&gl=US) mobile app
-- [Bug report](https://docs.google.com/spreadsheets/d/1psyvC75DrlCn2q9qnlad02WGcFH9bQkzEdPt1OVgCuA/edit?usp=share_link)
+### ✅ Explorative testing [TM Woocommerce NetSuite Integration] WordPress Plugin
+- [Test report](https://docs.google.com/spreadsheets/d/1dxr7ET21OXQTeADWFLF1AS2I_gOKfb7pCvlb-kn-UBY/edit?gid=0#gid=0)
 
 ### ✅ Testing [SwipeTo](https://swipeto.pl/) in groups (reporting in Jira) 
 
