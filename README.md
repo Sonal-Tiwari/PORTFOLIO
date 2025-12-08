@@ -66,11 +66,11 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - [Test cases for user stories]
 - [Test cases based on experience]
 - [Bug report]
-- [Test report](https://docs.google.com/) 
-- [Explorative testing - tour](https://docs.google.com/spreadsheets/) 
+- [Test report](http) 
+- [Explorative testing - tour](http) 
 
 ### ✅ Testing [ERP Integration Plugin](https://) by TecMarbles
-- [Test report](https://docs.google.com/spreadsheets/) 
+- [Test report](http) 
 
 ### ✅ Explorative testing [TM Woocommerce NetSuite Integration] WordPress Plugin
 - [Test report](https://docs.google.com/spreadsheets/d/154q2wmcIfp1WJUtk8h2fIhIfCiS9E7cQwfPBh40cV3w/edit?usp=sharing)
