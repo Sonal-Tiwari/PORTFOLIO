@@ -8,7 +8,7 @@
 </p>
 
 [<kbd> About me </kbd>](#about-me)
-[<kbd> Courses </kbd>](#courses-training/practicing)
+[<kbd> Courses </kbd>](#courses-Practicing)
 [<kbd> Tools </kbd>](#tools)
 [<kbd> Tech skills </kbd>](#tech-skills)
 [<kbd> Projects </kbd>](#projects)
@@ -30,7 +30,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 </p>
 
 
-# Courses,Training/Practicing
+# Courses,Practicing
 - TECHMARBLES WEB SOLUTIONS
 
 
