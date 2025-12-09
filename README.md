@@ -62,24 +62,24 @@ I aspire to be a valuable team member contributing to the success of projects. I
 ## Testing exercises at TECHMARBLES WEB SOLUTIONS manual testing challenge
 
 ### ✅ Testing [TALES BUDDY](https://talesbuddy.com) website
-- Explorative testing
-- UI/UX testing
+- Explorative Testing
+- UI/UX Testing
 - Functional Testing
-- [Test cases for user stories]
-- [Test cases based on experience]
-- [Bug report]
+- [Test Report]
+- [Bug Report]
   
 
 ### ✅ Testing [ERPNext Integration Plugin](https://apps.shopify.com/erpnext-integration?search_id=39bb6e8c-13ac-4574-b90b-fb5f854960cf&surface_detail=techmarbles&surface_inter_position=1&surface_intra_position=4&surface_type=search) by TecMarbles
-- Explorative testing
+- Explorative Testing
 - Functional Testing
-- [Test report](https://docs.google.com/spreadsheets/d/1L7_SssoZjY7HBCFGKFgGGoNyqlupGCZCYjLfUPwF60Y/edit?usp=sharing)
+- [Test Report](https://docs.google.com/spreadsheets/d/1L7_SssoZjY7HBCFGKFgGGoNyqlupGCZCYjLfUPwF60Y/edit?usp=sharing)
   
 
-### ✅ Testing [TM Woocommerce NetSuite Integration] Woocommerce Plugin
+### ✅ Testing [TM Woocommerce NetSuite Integration](https://woocommerce.com/products/netsuite-integration-for-woocommerce/) Woo Plugin
 - Explorative testing
 - Functional Testing
-- [Test report](https://docs.google.com/spreadsheets/d/154q2wmcIfp1WJUtk8h2fIhIfCiS9E7cQwfPBh40cV3w/edit?usp=sharing)
+- [Test Report](https://docs.google.com/spreadsheets/d/154q2wmcIfp1WJUtk8h2fIhIfCiS9E7cQwfPBh40cV3w/edit?usp=sharing)
+- [Bug Report](https://docs.google.com/spreadsheets/d/1jKeApVfqPnlhau0K5iaQqNRgz0iUUJUrAOKXuAbHY6Q/edit?usp=sharing)
 
 
 ### ✅ Testing [Shopify-NetSuite Integration plugin](https://apps.shopify.com/netsuite-integration?st_source=autocomplete&surface_detail=autocomplete_apps) by TechMables
@@ -91,8 +91,8 @@ I aspire to be a valuable team member contributing to the success of projects. I
 ### ✅ Testing [TechMarbles Website]
 
 - Exploratory Testing
+- API Testing
 - [Bug report & Suggestion Sheet](https://docs.google.com/spreadsheets/d/133_OFjThmsAIJGqpi0QWvTfjm-aCbiCmEV8s_uztiHs/edit?usp=sharing)
-- [API Testing]
 
 
 ## MY OWN PROJECTS
