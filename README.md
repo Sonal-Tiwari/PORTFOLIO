@@ -17,20 +17,21 @@
 
 - 👋 Hi! I'm Sonal Tiwari! I'm passionate learner of software testing. 
 
-- 🌱 I’m currently participating in: [**TECHMARBLES WEB SOLUTIONS**]
+- 🌱 I’m currently practicing in: [**TECHMARBLES WEB SOLUTIONS**]
 
 - 📫 How to reach me: sonaltiwari2701@gmail.com , [linkedin](https://www.linkedin.com/in/sonaltiwariofficial)
 
-- 😉 Contact me - I am really interested in gaining some experience to enrich my portfolio 
+- 😉 Contact me - I am really interested in gaining some experience to enrich my portfolio.
 
 <p align="left">
-Welcome to my testing portfolio. I'm a passionate beginner in manual testing, excited about taking on new challenges and gaining valuable experience.
+Welcome to my testing portfolio. I'm a passionate Manual Tester and beginner in Automation Testing, excited about taking on new challenges and gaining valuable experience.
 Within my portfolio lies not only a collection of skills but a story of my dedication to analysis, exploration, and refinement.
 I aspire to be a valuable team member contributing to the success of projects. I firmly believe in the power of learning through practical application. Therefore, I  am really interested in gaining experience and very enthusiastic about contributing to projects providing me an opportunities to enhance my skills.
 </p>
 
 
 # Courses, Practicing
+
 - TECHMARBLES WEB SOLUTIONS
 
 
@@ -38,8 +39,10 @@ I aspire to be a valuable team member contributing to the success of projects. I
 
 - Devtools - basics for manual testers
 - Google Docs & Sheet (for test report)
-- Jira - basics
+- Jira - for Bug tracking
 - GitHub - basics (creating portfolio)
+- GIT - a version control system used to track code changes
+- Visual Studio Code - a source-code editor
 - Postman - API testing
 - Agile Methodology
 - Slack
@@ -47,14 +50,18 @@ I aspire to be a valuable team member contributing to the success of projects. I
 # Tech skills
 
 - SDLC & STLC
-- SQL - basics for beginners
-- Creating test cases
+- SQL database - basics for beginners
+- Test Documentation
 - Reporting bugs
-- Creating test reports
+- Test Analysis & Design
 - Plugin Testing (Shopify & WordPress)
+- Figma Testing
+- Website & Web application testing
 - ERP software testing
 - WordPress content management
-- Basics for beginners of automated testing
+- HTML/CSS knowledge
+- Advance English
+- Basics of automation testing
 
 
 # Projects
@@ -69,20 +76,20 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - [Bug Report](https://docs.google.com/spreadsheets/d/1jKeApVfqPnlhau0K5iaQqNRgz0iUUJUrAOKXuAbHY6Q/edit?usp=sharing)
 
 
-### ✅ Testing [ERPNext Integration Plugin](https://apps.shopify.com/erpnext-integration?search_id=39bb6e8c-13ac-4574-b90b-fb5f854960cf&surface_detail=techmarbles&surface_inter_position=1&surface_intra_position=4&surface_type=search) by TecMarbles
+### ✅ Testing [ERPNext Integration Plugin](https://apps.shopify.com/erpnext-integration?search_id=39bb6e8c-13ac-4574-b90b-fb5f854960cf&surface_detail=techmarbles&surface_inter_position=1&surface_intra_position=4&surface_type=search) 
 - Explorative Testing
 - Functional Testing
 - [Test Report](https://docs.google.com/spreadsheets/d/1L7_SssoZjY7HBCFGKFgGGoNyqlupGCZCYjLfUPwF60Y/edit?usp=sharing)
   
 
-### ✅ Testing [Shopify-NetSuite Integration plugin](https://apps.shopify.com/netsuite-integration?st_source=autocomplete&surface_detail=autocomplete_apps) by TechMarbles
+### ✅ Testing [Shopify-NetSuite Integration plugin](https://apps.shopify.com/netsuite-integration?st_source=autocomplete&surface_detail=autocomplete_apps) Shopify Plugin
 - Exploratory testing
 - Functional Testing
 - [Test Report](https://docs.google.com/spreadsheets/d/1GcTzDX06aGkg9fEBafVX6ve4FbeFtpyLjeK-SgWg4eE/edit?usp=sharing)
 - [Bug Report](https://docs.google.com/spreadsheets/d/12KtXDt87nzNsv0ZcEz0G_bmZe_uPii_oZ1gpmZTjGi8/edit?usp=sharing)
 
 
-### ✅ Testing [TechMarbles Website]
+### ✅ Testing [TechMarbles](https://techmarbles.com/) website
 - [Exploratory Testing](https://docs.google.com/spreadsheets/d/1MaVqVEW7Muor-ZYVnoD0OkMbcATaakWcWYGIEvwjPFs/edit?usp=sharing)
 - API Testing
 - [Bug report & Suggestion Sheet](https://docs.google.com/spreadsheets/d/133_OFjThmsAIJGqpi0QWvTfjm-aCbiCmEV8s_uztiHs/edit?usp=sharing)
@@ -92,8 +99,8 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - Explorative Testing
 - UI/UX Testing
 - Functional Testing
-- [Test Report]
-- [Bug Report]
+- Test Report
+- Bug Report
   
 
 ## MY OWN PROJECTS
