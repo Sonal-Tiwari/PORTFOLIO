@@ -61,19 +61,6 @@ I aspire to be a valuable team member contributing to the success of projects. I
 
 ## Testing exercises at TECHMARBLES WEB SOLUTIONS manual testing challenge
 
-### ✅ Testing [TALES BUDDY](https://talesbuddy.com) website
-- Explorative Testing
-- UI/UX Testing
-- Functional Testing
-- [Test Report]
-- [Bug Report]
-  
-
-### ✅ Testing [ERPNext Integration Plugin](https://apps.shopify.com/erpnext-integration?search_id=39bb6e8c-13ac-4574-b90b-fb5f854960cf&surface_detail=techmarbles&surface_inter_position=1&surface_intra_position=4&surface_type=search) by TecMarbles
-- Explorative Testing
-- Functional Testing
-- [Test Report](https://docs.google.com/spreadsheets/d/1L7_SssoZjY7HBCFGKFgGGoNyqlupGCZCYjLfUPwF60Y/edit?usp=sharing)
-  
 
 ### ✅ Testing [TM Woocommerce NetSuite Integration](https://woocommerce.com/products/netsuite-integration-for-woocommerce/) Woo Plugin
 - Explorative testing
@@ -82,18 +69,32 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - [Bug Report](https://docs.google.com/spreadsheets/d/1jKeApVfqPnlhau0K5iaQqNRgz0iUUJUrAOKXuAbHY6Q/edit?usp=sharing)
 
 
-### ✅ Testing [Shopify-NetSuite Integration plugin](https://apps.shopify.com/netsuite-integration?st_source=autocomplete&surface_detail=autocomplete_apps) by TechMables
+### ✅ Testing [ERPNext Integration Plugin](https://apps.shopify.com/erpnext-integration?search_id=39bb6e8c-13ac-4574-b90b-fb5f854960cf&surface_detail=techmarbles&surface_inter_position=1&surface_intra_position=4&surface_type=search) by TecMarbles
+- Explorative Testing
+- Functional Testing
+- [Test Report](https://docs.google.com/spreadsheets/d/1L7_SssoZjY7HBCFGKFgGGoNyqlupGCZCYjLfUPwF60Y/edit?usp=sharing)
+  
+
+### ✅ Testing [Shopify-NetSuite Integration plugin](https://apps.shopify.com/netsuite-integration?st_source=autocomplete&surface_detail=autocomplete_apps) by TechMarbles
 - Exploratory testing
 - Functional Testing
-- [Test Report]
+- [Test Report](https://docs.google.com/spreadsheets/d/1GcTzDX06aGkg9fEBafVX6ve4FbeFtpyLjeK-SgWg4eE/edit?usp=sharing)
+- [Bug Report](https://docs.google.com/spreadsheets/d/12KtXDt87nzNsv0ZcEz0G_bmZe_uPii_oZ1gpmZTjGi8/edit?usp=sharing)
 
 
 ### ✅ Testing [TechMarbles Website]
-
 - Exploratory Testing
 - API Testing
 - [Bug report & Suggestion Sheet](https://docs.google.com/spreadsheets/d/133_OFjThmsAIJGqpi0QWvTfjm-aCbiCmEV8s_uztiHs/edit?usp=sharing)
 
+
+### ✅ Testing [TALES BUDDY](https://talesbuddy.com) website
+- Explorative Testing
+- UI/UX Testing
+- Functional Testing
+- [Test Report]
+- [Bug Report]
+  
 
 ## MY OWN PROJECTS
 ### ✅ Exploratory testing of [Rainbow Tours](https://r.pl) website
