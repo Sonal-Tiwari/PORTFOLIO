@@ -8,7 +8,7 @@
 </p>
 
 [<kbd> About me </kbd>](#about-me)
-[<kbd> Courses </kbd>](#courses-Practicing)
+[<kbd> Courses </kbd>](#courses-practicing)
 [<kbd> Tools </kbd>](#tools)
 [<kbd> Tech skills </kbd>](#tech-skills)
 [<kbd> Projects </kbd>](#projects)
@@ -30,7 +30,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 </p>
 
 
-# Courses,Practicing
+# Courses, Practicing
 - TECHMARBLES WEB SOLUTIONS
 
 
@@ -83,7 +83,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 
 
 ### ✅ Testing [TechMarbles Website]
-- Exploratory Testing
+- [Exploratory Testing](https://docs.google.com/spreadsheets/d/1MaVqVEW7Muor-ZYVnoD0OkMbcATaakWcWYGIEvwjPFs/edit?usp=sharing)
 - API Testing
 - [Bug report & Suggestion Sheet](https://docs.google.com/spreadsheets/d/133_OFjThmsAIJGqpi0QWvTfjm-aCbiCmEV8s_uztiHs/edit?usp=sharing)
 
