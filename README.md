@@ -1,5 +1,5 @@
 
-![2025-12-08_20h49_22](https://github.com/Sonal-Tiwari/PORTFOLIO/blob/main/HI!%20I%E2%80%99M%20SONAL%20TIWARI.png)
+![2025-12-08_20h49_22](https://github.com/Sonal-Tiwari/PORTFOLIO/blob/main/portfolio_pic.png)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonal-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="sonal" /> </p>
