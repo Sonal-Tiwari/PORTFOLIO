@@ -95,11 +95,11 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - [Bug report & Suggestion Sheet](https://docs.google.com/spreadsheets/d/133_OFjThmsAIJGqpi0QWvTfjm-aCbiCmEV8s_uztiHs/edit?usp=sharing)
 
 
-### ✅ Testing [TALES BUDDY](https://talesbuddy.com) website
+### ✅ Testing [TalesBuddy](https://talesbuddy.com) website
 - Explorative Testing
 - UI/UX Testing
 - Functional Testing
-- Test Report
+- [Test Report{100+ test cases}](https://docs.google.com/spreadsheets/d/1zKdlSIs4XlF12I0LAmjtpq0Gi5cAMjjR4W3vrv3C0CM/edit?gid=0#gid=0)
 - Bug Report
   
 
