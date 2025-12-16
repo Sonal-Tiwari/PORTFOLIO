@@ -92,7 +92,8 @@ I aspire to be a valuable team member contributing to the success of projects. I
 ### ✅ Testing [TechMarbles](https://techmarbles.com/) website
 - [Exploratory Testing](https://docs.google.com/spreadsheets/d/1MaVqVEW7Muor-ZYVnoD0OkMbcATaakWcWYGIEvwjPFs/edit?usp=sharing)
 - API Testing
-- [Bug report & Suggestion Sheet](https://docs.google.com/spreadsheets/d/133_OFjThmsAIJGqpi0QWvTfjm-aCbiCmEV8s_uztiHs/edit?usp=sharing)
+- Content Management in WP
+- [Bug report](https://docs.google.com/spreadsheets/d/133_OFjThmsAIJGqpi0QWvTfjm-aCbiCmEV8s_uztiHs/edit?usp=sharing)
 
 
 ### ✅ Testing [TalesBuddy](https://talesbuddy.com) website
