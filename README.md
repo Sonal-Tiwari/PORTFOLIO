@@ -52,6 +52,7 @@ I aspire to be a valuable team member contributing to the success of projects. I
 - SDLC & STLC
 - SQL database - basics for beginners
 - Test Documentation
+- ERP Software (NetSuite, ERPNext, MYOB, Dolibarr, Zoho Books, Odoo)
 - Reporting bugs
 - Test Analysis & Design
 - Plugin Testing (Shopify & WordPress)
